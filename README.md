@@ -16,7 +16,7 @@ I bridge the gap between user-centered design and responsive frontend code. With
 
 ## 💻 Highlighted Case Studies
 
-"### 🚀 [MMU TV] — Web Development & UX/UI Redesign
+### 🚀 [MMU TV] — Web Development & UX/UI Redesign
 A responsive community web platform and frontend prototype built to showcase student and staff media projects at Manchester Metropolitan University, transforming text-dense layouts into an intuitive, mobile-optimized content ecosystem.
 
 - 🌐 [Link to Live Demo]( https://marquis09.github.io/mmu-tv/index.html )
