@@ -16,9 +16,8 @@ I bridge the gap between user-centered design and responsive frontend code. With
 
 ## 💻 Highlighted Case Studies
 
-### 🚀 [Project Name 1] - UX/UI & Frontend Development
+### 🚀 [Project Hartshill] - UX/UI & Frontend Development
 *A brief 1-sentence sentence describing what this project is.*
-- 🎨 [Link to Figma Prototype](YOUR_FIGMA_LINK)
 - 🌐 [Link to Live Demo]( https://marquis09.github.io/Hartshill/ )
 
 ### 📱 [Project Name 2] - Interaction Design Project
