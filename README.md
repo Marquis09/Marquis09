@@ -22,7 +22,7 @@ I bridge the gap between user-centered design and responsive frontend code. With
 
 ### 📱 [Project NewCity] - Interaction Design Project
 *A brief 1-sentence sentence describing what this project is.*
-- 🎨 [Link to Figma Prototype]( https://marquis09.github.io/Newcity/ )
+- 🌐 [Link to Live Demo]( https://marquis09.github.io/Newcity/ )
 
 ---
 
