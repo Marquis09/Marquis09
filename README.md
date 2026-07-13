@@ -21,7 +21,7 @@ I bridge the gap between user-centered design and responsive frontend code. With
 - 🌐 [Link to Live Demo]( https://marquis09.github.io/Hartshill/ )
 
 ### 📱 [Project NewCity] - Interaction Design Project
-*A brief 1-sentence sentence describing what this project is.*
+*A real-world voluntary project and responsive frontend prototype that overhauls an existing website, re-architecting an agency-managed, text-heavy community archive into a sleek, scannable Bento Box layout optimized for universal accessibility.*
 - 🌐 [Link to Live Demo]( https://marquis09.github.io/Newcity/ )
 
 ---
