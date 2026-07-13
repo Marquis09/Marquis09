@@ -20,9 +20,9 @@ I bridge the gap between user-centered design and responsive frontend code. With
 *A brief 1-sentence sentence describing what this project is.*
 - 🌐 [Link to Live Demo]( https://marquis09.github.io/Hartshill/ )
 
-### 📱 [Project Name 2] - Interaction Design Project
+### 📱 [Project NewCity] - Interaction Design Project
 *A brief 1-sentence sentence describing what this project is.*
-- 🎨 [Link to Figma Prototype](YOUR_FIGMA_LINK)
+- 🎨 [Link to Figma Prototype]( https://marquis09.github.io/Newcity/ )
 
 ---
 
