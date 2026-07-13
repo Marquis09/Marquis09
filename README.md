@@ -16,9 +16,10 @@ I bridge the gap between user-centered design and responsive frontend code. With
 
 ## 💻 Highlighted Case Studies
 
-### 🚀 [Project Hartshill] - UX/UI & Frontend Development
-*This project is a high-fidelity case study and semantic web prototype documenting the comprehensive UX/UI redesign of a legacy, text-dense community hub into a modern, mobile-optimized "Lumia" Bento Grid architecture.*
-- 🌐 [Link to Live Demo]( https://marquis09.github.io/Hartshill/ )
+"### 🚀 [MMU TV] — Web Development & UX/UI Redesign
+A responsive community web platform and frontend prototype built to showcase student and staff media projects at Manchester Metropolitan University, transforming text-dense layouts into an intuitive, mobile-optimized content ecosystem.
+
+- 🌐 [Link to Live Demo]( https://marquis09.github.io/mmu-tv/index.html )
 
 ### 📱 [Project NewCity] - Interaction Design Project
 *A real-world voluntary project and responsive frontend prototype that overhauls an existing website, re-architecting an agency-managed, text-heavy community archive into a sleek, scannable Bento Box layout optimized for universal accessibility.*
