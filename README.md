@@ -1,5 +1,5 @@
 # Hi, I'm Marquis Orchard 👋
-### Graduate Web & UX Designer | Frontend Developer 
+### Graduate Web & UX/UI Designer | Frontend Developer 
 
 📍 Based in Milton Keynes, UK | 🎓 BSc (Hons) Web & UX Design (Manchester Met)
 
